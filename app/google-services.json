@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "410590802051",
+    "project_id": "fir-pushnotification-66cdd",
+    "storage_bucket": "fir-pushnotification-66cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410590802051:android:9f4b97bf68b415ce52abb6",
+        "android_client_info": {
+          "package_name": "com.example.fcmpushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSuWWsd4keosewSOYQNRQfjbbOd7oD2l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
