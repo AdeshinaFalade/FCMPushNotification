@@ -24,6 +24,7 @@ class ChatViewModel : ViewModel() {
         viewModelScope.launch {
             Firebase.messaging.subscribeToTopic("chat").await()
         }
+
     }
 
     private val api: FcmApi = Retrofit.Builder()
